@@ -9,6 +9,8 @@ The service is built on top of the [HTML5 localStorage API](http://www.w3.org/TR
 **Browser Support** ([chart](http://caniuse.com/#search=webstorage)):
 IE8+, Firefox 3.6+, Chrome 4+, Safari 4+, Opera 10.5+
 
+[Demo](https://jsfiddle.net/7x3fyr6h/1/) (Open same link in multiple tabs/Windows)
+
 ### Basic Usage
 
 ```javascript
